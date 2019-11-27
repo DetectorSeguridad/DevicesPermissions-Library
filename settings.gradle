@@ -1,1 +1,1 @@
-include ':app', ':devicespermissionslibrary'
+include ':app'
